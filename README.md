@@ -14,7 +14,7 @@ The utvisualization contains a standalone 3D rendering module. Mostly it for qui
 
 Dependencies
 ----------
-In addition, this component has to following submodule dependencies which have to be added for successful building:
+In addition, this module has to following submodule dependencies which have to be added for successful building:
 
 <table>
   <tr>
