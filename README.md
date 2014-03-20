@@ -10,7 +10,7 @@ Usage
 -----
 In order to use it, you have to clone the buildenvironment, change to the ubitrack directory and add the utvisualization by executing:
 
-    git submodule add https://github.com/schwoere/utvisualization.git modules/utvisualization
+    git submodule add https://github.com/Ubitrack/utvisualization.git modules/utvisualization
 
 
 Dependencies
@@ -19,9 +19,9 @@ In addition, this module has to following submodule dependencies which have to b
 
 <table>
   <tr>
-    <th>Dependency</th><th>Dependent Components</th><th>optional Dependency</th>
+    <th>Component</th><th>Dependency</th>
   </tr>
   <tr>
-    <td>utdataflow, utvision</td><td>HighuiWindow, Renderer</td><td>no</td>
+    <td>all</td><td>utDataflow, utVision</td>
   </tr>
 </table>
